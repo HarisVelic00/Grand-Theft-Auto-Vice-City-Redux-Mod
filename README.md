@@ -1,1 +1,3 @@
-# Grand-Theft-Auto---Vice-City-Redux-Mod
+Redux Mod for GTA - Vice City
+Combines many mods into one complete package
+Includes new fixes made by me
