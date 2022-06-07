@@ -1,0 +1,5 @@
+167,	coach, 		coach, 		car, 	COACH, 		COACH, 		coach,	normal,	 	10,	7,	0,	255, 1
+161, 	bus, 		bus,	 	car, 	BUS, 		BUS, 		null,	normal,	 	10, 	7,	0, 	255, 0.9
+139, 	stretch,	stretch, 	car, 	STRETCH, 	STRETCH, 	null,	executive, 	7,	7,	0,	251, 0.75
+236, 	vicechee, 	vicechee, 	car, 	CHEETAH, 	VCPDCHE, 	null, 	ignore, 	10, 	7, 	0, 	250, 0.7
+
